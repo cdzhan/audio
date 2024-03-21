@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 import distutils.command.clean
 import os
 import re
